@@ -5,6 +5,12 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>learn_azure_app</RootNamespace>
+    <ApplicationInsightsResourceId>/subscriptions/165153e9-54a6-4d72-8bc3-b117a48fb42b/resourceGroups/az-group-rg/providers/microsoft.insights/components/azure-app-dimon-vs</ApplicationInsightsResourceId>
+    <UserSecretsId>bcd156ef-2349-4330-886f-45df072ac9a6</UserSecretsId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.15.0" />
+  </ItemGroup>
 
 </Project>
