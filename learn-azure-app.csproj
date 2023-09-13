@@ -5,7 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>learn_azure_app</RootNamespace>
-    <ApplicationInsightsResourceId>/subscriptions/165153e9-54a6-4d72-8bc3-b117a48fb42b/resourceGroups/az-group-rg/providers/microsoft.insights/components/azure-app-dimon-vs</ApplicationInsightsResourceId>
+    <ApplicationInsightsResourceId>/subscriptions/28224086-d709-4732-a433-68626ad38b20/resourceGroups/az-group-rg/providers/microsoft.insights/components/azure-app-dimoni4-vs</ApplicationInsightsResourceId>
     <UserSecretsId>bcd156ef-2349-4330-886f-45df072ac9a6</UserSecretsId>
   </PropertyGroup>
 
