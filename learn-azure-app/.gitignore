@@ -8,5 +8,3 @@
 /publish
 /Properties
 *.user
-/Blazor.AzureCosmosDb.Demo/bin/Debug/net7.0
-/Blazor.AzureCosmosDb.Demo/obj
