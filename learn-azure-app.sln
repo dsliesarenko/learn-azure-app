@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blazor.AzureCosmosDb.Demo",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "learn-azure-app", "learn-azure-app\learn-azure-app.csproj", "{7C98A9EA-4111-4217-96DC-898FD13F5D00}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mvc.StorageAccount.Demo", "Mvc.StorageAccount.Demo\Mvc.StorageAccount.Demo.csproj", "{ECC3D3A1-0A66-4ECD-A716-B81316AE5F6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console.QueueConsumer.Demo", "Console.QueueConsumer.Demo\Console.QueueConsumer.Demo.csproj", "{F3F5D642-EC59-4B86-A53C-D4205334C794}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{7C98A9EA-4111-4217-96DC-898FD13F5D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C98A9EA-4111-4217-96DC-898FD13F5D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C98A9EA-4111-4217-96DC-898FD13F5D00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC3D3A1-0A66-4ECD-A716-B81316AE5F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC3D3A1-0A66-4ECD-A716-B81316AE5F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC3D3A1-0A66-4ECD-A716-B81316AE5F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC3D3A1-0A66-4ECD-A716-B81316AE5F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F5D642-EC59-4B86-A53C-D4205334C794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F5D642-EC59-4B86-A53C-D4205334C794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F5D642-EC59-4B86-A53C-D4205334C794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F5D642-EC59-4B86-A53C-D4205334C794}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

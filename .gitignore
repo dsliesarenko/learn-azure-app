@@ -10,3 +10,7 @@
 *.user
 /Blazor.AzureCosmosDb.Demo/bin/Debug/net7.0
 /Blazor.AzureCosmosDb.Demo/obj
+/Mvc.StorageAccount.Demo/obj
+/Mvc.StorageAccount.Demo/bin/Debug/net7.0
+/Console.QueueConsumer.Demo/bin/Debug/net7.0
+/Console.QueueConsumer.Demo/obj
