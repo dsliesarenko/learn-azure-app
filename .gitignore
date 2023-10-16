@@ -14,3 +14,7 @@
 /Mvc.StorageAccount.Demo/bin/Debug/net7.0
 /Console.QueueConsumer.Demo/bin/Debug/net7.0
 /Console.QueueConsumer.Demo/obj
+/Console.ServiceBusReceiver.Demo/bin/Debug/net7.0
+/Console.ServiceBusReceiver.Demo/obj
+/Console.ServiceBusSender.Demo/bin/Debug/net7.0
+/Console.ServiceBusSender.Demo/obj
