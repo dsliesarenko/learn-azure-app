@@ -18,3 +18,9 @@
 /Console.ServiceBusReceiver.Demo/obj
 /Console.ServiceBusSender.Demo/bin/Debug/net7.0
 /Console.ServiceBusSender.Demo/obj
+/FunctionAppStudio.Demo/Properties
+/FunctionApp.Demo/Properties
+/.vscode/extensions.json
+/.vscode/launch.json
+/.vscode/settings.json
+/.vscode/tasks.json
